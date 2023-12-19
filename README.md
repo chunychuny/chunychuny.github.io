@@ -1,2 +1,0 @@
-# chunychuny.github.io
-website
